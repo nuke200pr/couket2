@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542918864090",
+    "project_id": "myapps-eb4b8",
+    "storage_bucket": "myapps-eb4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542918864090:android:eb08f319ffe0e5ff1d09e3",
+        "android_client_info": {
+          "package_name": "com.example.chatore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542918864090-c8l422er24qjnvto6pmrnu57p16o2d30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVktw7GqY4vHm1JxRfOeaoOuuppxDrne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542918864090-c8l422er24qjnvto6pmrnu57p16o2d30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
